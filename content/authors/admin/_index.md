@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Башиянц Александра
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: 
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Александра
+last_name: Башиянц
 
 # Status emoji
 status:
@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Data Analisys
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -47,65 +47,45 @@ profiles:
     url: https://orcid.org/
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - DataBases
+  - Algorithms
+  - Data engineering
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.8/4.0
+  - area: Информационные системы и программирование
+    institution: АНО ПО ИТХАБ
+    date_start: 2020-09-01
+    date_end: 2024-06-28
 
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
+  - area: 
+    institution: Математика и механика РУДН
+    date_start: 2024-09-01
+    date_end: 2028-06-28
+    
+  - area: 
+    institution: Date Engineer Яндекс Практикум
+    date_start: 2024-12-05
+    date_end: 2025-11-30
+
+
       
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+
+
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+  - position: Junior Data Analisys
+    company_name: AILet
     company_url: ''
     company_logo: ''
-    date_start: 2021-01-01
+    date_start: 2022-12-20
     date_end: ''
     summary: |2-
       Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
-    company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+        - Работа с датасетом, сбор данных с корпоративного портала, разметка и проверка лотов
+        - Ревизия датасета, отбор для уточняющей сети, а также её тестирование и анализ.
+        - Анализ ошибок распознавания, достижение и поддержание таргетной точности.
+        - Заведение новых продуктов, достижение обученности и точности в указанные сроки проекта.
+        - Постановка, отслеживание и проверка задач операторам
+
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -183,4 +163,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Башиянц Александра - студентка 1 курса РУДН по направлению Математика и механика. На данный момень работает в компании AILet Junior Дата аналитиком. Также является куратором на нескольких проектах.
