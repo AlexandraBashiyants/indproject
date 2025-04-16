@@ -33,18 +33,23 @@ profiles:
   - icon: at-symbol
     url: 'mailto:1132246777@pfur.ru'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+  - icon: library
+    url: https://www.elibrary.ru/author_info.asp?isold=1
   - icon: brands/github
-    url: https://github.com/gcushen
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://github.com/AlexandraBashiyants
+  - icon: brands/
+    url: https://www.mendeley.com/
   - icon: academicons/google-scholar
     url: https://scholar.google.com/
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://orcid.org/0009-0000-5026-1047
+  - icon: brands/
+    url: https://www.researchgate.net/
+  - icon: brands/
+    url: https://independent.academia.edu/AleksandraБашиянц
+  - icon: brands/
+    url: https://arxiv.org/
+
 
 interests:
   - DataBases
